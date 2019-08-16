@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vieraskirja>
+   <vieras>
+    <nimi>Joku Jätkä</nimi>
+    <puh. numero>000+0000000</puh. numero>
+    <osoite>Joku osoite</osoite>
+    <luottotiedot>visa blaa blaa</luottotiedot>
+    <huonenr>Huone 1</huonenr>
+    <päivien määrä>2 päivää</päivien määrä> 
+   </vieras>
+   <vieras> 
+    <nimi>Joku Jätkä</nimi>
+    <puh. numero>000+0000000</puh. numero>
+    <osoite>Joku osoite</osoite>
+    <luottotiedot>visa blaa blaa</luottotiedot>
+    <huonenr>Siivouskomero</huonenr>
+    <päivien määrä>2 päivää</päivien määrä>
+   </vieras>
+</vieraskirja>
